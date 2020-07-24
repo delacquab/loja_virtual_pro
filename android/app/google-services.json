@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "548965983895",
+    "firebase_url": "https://loja-virtual-d321b.firebaseio.com",
+    "project_id": "loja-virtual-d321b",
+    "storage_bucket": "loja-virtual-d321b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548965983895:android:5ab1741c762f95f97bebd2",
+        "android_client_info": {
+          "package_name": "br.com.delacquab.loja_virtual_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548965983895-7ebbq364v6s8nm6i5nm8oo8r6ff6bjg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGStXqLgbBsQ6MIcxXMjMIpXyB8pK5OdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548965983895-7ebbq364v6s8nm6i5nm8oo8r6ff6bjg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
